@@ -21,9 +21,10 @@ matplotlib
 langchain-huggingface
 sentence-transformers
 langchain-experimental
+langchain-classic
 rank_bm25
 wikipedia
 langgraph
-
+nbconvert
 
 
